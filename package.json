@@ -1,1 +1,13 @@
 
+{
+  "name": "augur-dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard application for Augur",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
