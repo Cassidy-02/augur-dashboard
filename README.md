@@ -17,3 +17,6 @@ This project uses a GitHub Actions workflow to automatically build and deploy th
 
 ### 📂 Workflow File Location
 The CI/CD config lives in:
+.github/workflows/azure-deploy.yml
+
+After setup, every push to `main` will deploy the latest version to Azure automatically 🎉
